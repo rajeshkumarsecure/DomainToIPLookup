@@ -1,0 +1,11 @@
+walmart.com,161.170.230.170
+walmart.com,161.170.232.170
+exxonmobil.com,52.170.117.70
+exxonmobil.com,13.88.22.190
+apple.com,17.172.224.47
+apple.com,17.178.96.59
+apple.com,17.142.160.59
+berkshirehathaway.com,192.124.249.118
+mckesson.com,107.154.105.156
+mckesson.com,107.154.106.156
+google.com,172.217.31.206

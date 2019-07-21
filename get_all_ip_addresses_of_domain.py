@@ -3,6 +3,8 @@
 # Inputs domains should be specified in 'input_domains.txt' file
 # Output will be generated in 'output_list.txt'
 
+__Author__ = "Rajesh Kumar N"
+__version__ = "0.1"
 
 import os
 import re
